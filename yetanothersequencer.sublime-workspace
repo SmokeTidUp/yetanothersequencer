@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pitch",
+				"pitch_to_note"
+			],
+			[
+				"recordign",
+				"recording_queue"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"bgi",
+				"bgimg-1"
+			],
+			[
+				"zp",
+				"z_psc"
+			],
+			[
+				"za",
+				"z_adresa"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mage_sequencer.ino",
+			"settings":
+			{
+				"buffer_size": 23594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "noteQueue.cpp",
+			"settings":
+			{
+				"buffer_size": 982,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "noteQueue.h",
+			"settings":
+			{
+				"buffer_size": 377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "noteQueue.cpp"
+			}
+		},
+		{
+			"file": "custom_filetypes.h",
+			"settings":
+			{
+				"buffer_size": 239,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "custom_filetypes.h"
+			}
+		}
+	],
+	"build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					""
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"just build"
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"build and upload"
+				]
+			],
+			[
+				"Packages/arduino-cli/arduino-cli.sublime-build",
+				"build and upload"
+			]
+		]
+	],
+	"build_varint": "build and upload",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bul",
+				"Build With: arduino-cli - build and upload"
+			],
+			[
+				"ardui",
+				"Set Syntax: Arduino"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: JavaC"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/hubert/Documents/Arduino/mage_sequencer/seq_stable_2poly_16reso",
+		"/Users/hubert/Documents/Arduino/mage_sequencer_poly/mage_sequencer_poly.ino",
+		"/Users/hubert/Documents/Arduino/7segment/7segment.ino",
+		"/Users/hubert/Library/Application Support/Sublime Text 3/Packages/User/Stino/Preferences.stino-settings",
+		"/Users/hubert/Library/Application Support/Sublime Text 3/Packages/User/arduino-cli.sublime-settings",
+		"/Users/hubert/Documents/Arduino/mage_sequencer/mage_sequencer.ino",
+		"/Users/hubert/pitch_to_note.cpp",
+		"/Applications/Ableton Live 9 Intro.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/settings.py",
+		"/Users/hubert/Documents/Arduino/uno_sequencer_neo_serial/uno_sequencer_neo_serial.ino",
+		"/Users/hubert/Downloads/bastl-instruments-bastl-f81315b/BastlMetronome.cpp",
+		"/Users/hubert/Downloads/bastl-instruments-bastl-f81315b/StepRecorder.cpp",
+		"/Users/hubert/Downloads/bastl-instruments-bastl-f81315b/Step.cpp",
+		"/Users/hubert/Documents/Arduino/LCD/sequencer_symbols.h",
+		"/Users/hubert/Documents/Arduino/LCD/sequencer_symbols.cpp",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/settings.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/ParamSetter.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/SelectedTrackControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/Control.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/DeviceControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/MIDI.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/GlobalControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/__init__.py",
+		"/Users/hubert/!!!RHCSA/!RHCSA",
+		"/Users/hubert/!!!RHCSA/libor.txt",
+		"/Users/hubert/Library/Preferences/Ableton/Live 10.0.2/User Remote Scripts/Make Motor great again/UserConfiguration.txt",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Make Motor great again/UserConfiguration.txt",
+		"/Users/hubert/Library/Preferences/Ableton/Live 10.0.2/User Remote Scripts/InstantMappings-HowTo.txt",
+		"/Users/hubert/Library/Preferences/Ableton/Live 10.0.2/User Remote Scripts/UserConfiguration.txt",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/SessionControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/SessionControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/SelectedTrackControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/QuantizationControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/QuantizationControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/ParamSetter.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/MixerControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/MixerControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/Logging.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/ViewControl.py",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/settings.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/MackieControl/MackieControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/README.markdown",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/MIDI.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/Logging.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/License.txt",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/DeviceControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/GlobalControl.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/Control.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/__init__.pyc",
+		"/Applications/Ableton Live 10 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Selected_Track_Control/ViewControl.pyc",
+		"/Users/hubert/Downloads/Ableton.Live.Suite.10.0.2/macOS/Patch by HCiSO/ALS v10.x.x Patch by HCiSO.command",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/_XPOLP/Test 4 - LogickÇ obvody_files/first.js",
+		"/Users/hubert/Documents/touchosc_layouts/Synths.touchosc",
+		"/Users/hubert/Downloads/BeatSkillz.ReeLight.v1.2.0.Regged-R2R/R2R.WIN.OSX/BeatSkillz_Hosts_Patch.cmd",
+		"/Users/hubert/Downloads/giada-0/README.md",
+		"/Users/hubert/Desktop/mental_cafe/v3/index.htm",
+		"/Users/hubert/Desktop/Min_favorit_datorspel",
+		"/Users/hubert/Dropbox/www/phpmyadmin/js/openlayers/OpenLayers.js",
+		"/Users/hubert/Documents/touchosc_layouts/index.xml",
+		"/Users/hubert/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU3/PlaceniTest.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU3/Placeni.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU3/Pracovnik.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU3/Faktura.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU3/Register.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_KU3/Registr.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_KU3/Placeni.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_KU3/PlaceniTest.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_KU3/Pracovnik.java",
+		"/Users/hubert/Downloads/Dexed_MacAU/README.md",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_R16079_KU1/Krizek.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_R16079_KU1/Bod.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_R16079_KU1/GrafickyObjekt.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XOOP/not_original/Bojanovsky_R16079_KU2/Auto.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU2/Auto.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU2/NakladniAuto.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU2/OsobniAuto.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/2OOP1_Objektove_orientovane_programovani_1/MalcharczikKU2/TestAuto.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_henry/2oop1/KlepekKU1/GrafickyObjekt/src/cotojekurva/Bod.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/UDTV1/KU3/procedura.sql",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/UDTV1/KU3/KU3_tabulka_pacient.ddl",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_henry/2galp/galpr_henry/src/galpr/Usecka.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_other/galp/galp2/Form1.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_other/galp/galp2/G_Graphics.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_henry/2galp/galpr_henry/src/galpr/Form1.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_other/galp/galp1/G_Graphics.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/OSU-2015_16-Z/_other/galp/galp1/Form1.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XGALP/KU2/KU2/src/galpr/Form1.java",
+		"/Users/hubert/Library/Mobile Documents/com~apple~CloudDocs/!!!SKOLA/!!!originals/XGALP/Java_Framework/GALPR/src/galpr/Form1.java",
+		"/Users/hubert/Downloads/Java_Framework/GALPR/src/galpr/Main.java",
+		"/Users/hubert/Downloads/Java_Framework/GALPR/src/galpr/[dir"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"mage_sequencer.ino",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"note_on",
+			"record_step",
+			"wipe_seq",
+			"clear_seq",
+			"struct",
+			"record_step",
+			"16",
+			"Serial2_inter",
+			"Serial2",
+			"if(recording",
+			"polyp",
+			"note_on",
+			"seq_len",
+			"int j",
+			"int i",
+			"lcd",
+			"play_step",
+			"seq_tick",
+			"serial2_inter",
+			"display_note",
+			",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"j",
+			"i"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mage_sequencer.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16879,
+								16879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10896.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "noteQueue.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "noteQueue.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								191,
+								191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "noteQueue.cpp",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "custom_filetypes.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"auto_name": "custom_filetypes.h",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1543763390.315711":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/7segment|1543764185.757947":
+	{
+		"height": 356.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer_poly|1543764175.670871":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543762753.313485":
+	{
+		"height": 476.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763026.590115":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763061.503048":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763174.06605":
+	{
+		"height": 801.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763305.509053":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763315.375967":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763338.553778":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763394.544931":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763607.292048":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763616.822296":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763745.4766":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543763803.301721":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764230.399235":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764313.232993":
+	{
+		"height": 441.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764390.522366":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764523.655718":
+	{
+		"height": 220.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764571.489625":
+	{
+		"height": 388.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764727.88505":
+	{
+		"height": 633.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764753.872619":
+	{
+		"height": 121.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764771.264571":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764776.036086":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764793.438676":
+	{
+		"height": 270.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764800.595531":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764820.293965":
+	{
+		"height": 0.0
+	},
+	"output.build|/Users/hubert/Documents/Arduino/mage_sequencer|1543764864.494462":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762739.938106":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762809.403505":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762810.90819":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762812.078793":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762813.383149":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762819.290257":
+	{
+		"height": 349.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762909.98751":
+	{
+		"height": 387.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543762974.427728":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543763312.620336":
+	{
+		"height": 0.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543764083.372252":
+	{
+		"height": 602.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543764347.448791":
+	{
+		"height": 121.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/mage_sequencer|1543764780.039993":
+	{
+		"height": 0.0
+	},
+	"output.upload|/Users/hubert/Documents/Arduino/uno_sequencer_neo_serial|1540311353.629821":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"project": "mage_sequencer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
